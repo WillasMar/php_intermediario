@@ -5,3 +5,5 @@ Enviando o diretório php intermediário para o gitHub.
 -Criado diretório registro_por_convite
 
 -Implentado index, login, conexao, cadastrar. Projeto concluído conforme a aula, e finalizado exercício.
+
+-Implentado sair.
