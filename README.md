@@ -7,3 +7,5 @@ Enviando o diretório php intermediário para o gitHub.
 -Implentado index, login, conexao, cadastrar. Projeto concluído conforme a aula, e finalizado exercício.
 
 -Implentado sair.
+
+-Iniciado sistema de marketing multinível, implementando index, config, login, cadastrar_usuario e sair. Criado banco de dados marketing_multinivel.

@@ -1,0 +1,25 @@
+Níveis
+
+sistema
+- usuario fulano
+- usuario cicrano
+--usuario paulo
+---usuario joão
+----usuario pedrinho
+-----usuario roberto
+--usuario pedro
+
+Classificações
+
+- iniciante = 0 cadastro
+- junior = 1 cadastro
+- diretor = 3 cadastros
+- diretor senior = 5 cadastros
+- executivo= 10 cadastros
+
+Ações
+
+- login e cadastro
+- listar os meus cadastros até o nível X
+- script atualizar as patentes
+
