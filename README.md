@@ -9,3 +9,5 @@ Enviando o diretório php intermediário para o gitHub.
 -Implentado sair.
 
 -Iniciado sistema de marketing multinível, implementando index, config, login, cadastrar_usuario e sair. Criado banco de dados marketing_multinivel.
+
+-Implementado funcoes, incrementado index e config.
